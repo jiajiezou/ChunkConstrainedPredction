@@ -1,7 +1,16 @@
-# ChunkConstrainedPredction
+# ChunkConstrainedPrediction
 
-Welcome to the repository for our study titled "Chunking Constrains Prediction During Language Comprehension." Here, you can find our poster for Human Sentence Processing 2025 and CNS 2025.
+Welcome to the repository for our study, **"Chunking Constrains Prediction During Language Comprehension."**  
+This project investigates how chunking of linguistic constituents impacts predictive processing during language comprehension.
 
-The preprint of the full text, along with all associated data and code, will soon be available in this repository.
+## Contents
+- Posters presented at **Human Sentence Processing 2025** and **CNS 2025**
+- Partial raw data (two participants per experiment) and all associated code, available on [Zenodo](https://zenodo.org/records/15236117)
+- Preprint of the full manuscript — coming soon
 
-If you have any questions or comments regarding our study, please feel free to contact Jiajie Zou at jiajiezou@zju.edu.cn or jiajie.zou@esi-frankfurt.de.
+## Contact
+For questions or feedback, please contact:
+
+**Jiajie Zou**  
+📧 jiajiezou@zju.edu.cn  
+📧 jiajie.zou@esi-frankfurt.de
